@@ -9,6 +9,6 @@ This repo contains a javascript bundle of https://github.com/chrisguttandin/stan
 1. update package.json
 2. run `parcel build index.js`
 3. A new bundle is created under the `dist` folder
-4. Commit and Push the bundle with a suffix that contains the version number
+4. mv dist/index.js standardized-audio-context-bundle-<version-number>.js
 
 
