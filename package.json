@@ -1,0 +1,13 @@
+{
+    "name": "webaudio-js",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "standardized-audio-context": "^24.1.13"
+    },
+    "devDependencies": {
+        "@babel/core": "7.2.0",
+        "parcel-bundler": "^1.6.1"
+    }
+}
